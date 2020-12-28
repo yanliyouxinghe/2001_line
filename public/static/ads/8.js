@@ -1,0 +1,1 @@
+document.write('<img src="//b.appsimg.com/upload/momin/2020/12/24/3/1608797377528_646x428_90.jpg" width="140" height="140">')

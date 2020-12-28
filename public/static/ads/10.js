@@ -1,0 +1,1 @@
+document.write('<img src="https://uimgproxy.suning.cn/uimg1/pcpv/pcpv/2020/12/23/18/iwoghBannerPicture/kJQRSUEYt71608717937612.png_400w_400h_4e" width="140" height="140">')

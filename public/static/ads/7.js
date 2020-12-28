@@ -1,0 +1,1 @@
+document.write('<img src="https://image4.suning.cn/uimg/cms/img/156922598205621148.jpg" width="140" height="140">')
